@@ -1,0 +1,12 @@
+.form {
+    margin-left: 42%;
+}
+
+.header2{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin-left: 50px;
+}
